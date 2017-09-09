@@ -52,6 +52,18 @@ Finally you can see project in the github repository.
 #Check status
 ```git status```
 By using above command we can see any changes done to our project
+# Commit details
+```git log```
+#  Creating Branch
+The following commands need to be run in order to create branch.
+
+```
+git checkout -b "<message>"
+git branch: To check whether branch is created or not
+git add .
+git commit -m "<message"
+git push origin "<message>"
+```
 
 
 
